@@ -1,6 +1,6 @@
 # Insurance management platform (Backend)
 
-## Running the application in local
+## Running the application in local machine
 
 ### Steps to run the application
 
